@@ -1,0 +1,28 @@
+body {
+  background-color: #ecfffe;
+}
+p {
+  font-family: "Roboto", sans-serif;
+}
+.my-green-text {
+  color: #80f180;
+}
+.my-blue-bck {
+  background-color: #89f1ff;
+}
+.my-brown-text {
+  color: #3c2525;
+}
+.my-brown-bck {
+  background-color: #3c2525;
+}
+.show-border {
+  border: 2px solid green;
+}
+.row-box {
+  margin: 10px;
+}
+.footer-container {
+  color: #80f180;
+  padding: 1px;
+}

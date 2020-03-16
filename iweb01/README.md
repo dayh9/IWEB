@@ -1,3 +1,5 @@
+Simple page with bootstrap.
+
 To build and run:
 
 1. docker build -t <name> .
